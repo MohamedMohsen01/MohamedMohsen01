@@ -14,9 +14,11 @@ I am excited about the opportunity to work with a team of experienced profession
 
 
 ## 💻Skills: 
-* Power BI
-* SQL , T-SQL
-* Advanced Excel
+* 
+* Programming language: SQL, Python, Excel VBA Macros
+* * Databases: MS SQL Server/T-SQL, MySQL, PostgreSQL
+* Analytics tools/Libraries: Pandas, NumPy, matplotlib, Seaborn, Plotly, SciPy
+* Data Visualization:Advanced MS Excel, Google Sheets, Microsoft Power BI, Tableau
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
