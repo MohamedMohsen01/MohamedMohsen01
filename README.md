@@ -2,13 +2,20 @@
 
 
 ### 🤗Welcome to my Github Profile
-- 👋 Hi, I am Amit Patel
-- 👀 I want to become a Data Analyst
-- 🌱 I am proficient in SQL, Advanced Excel and data visualization tools like Power BI. 
-- 📫 You can reach me on my github account if any information do you want to share Or If you want any information from me as well. :)
+- Overview
+I am a highly skilled data analyst with expertise in Microsoft Excel, SQL, Python, Power BI, and Tableau. With a passion for uncovering insights from data and driving data-based decision-making, I have a proven track record of delivering actionable analytics solutions to support business objectives.
 
-Over the past few months, I have been actively learning about data analysis through online courses and projects, and I am constantly impressed by the power of data to drive change and improve decision making. I believe that my skills and knowledge, combined with my passion for this field, make me well-suited to contribute as a Data Analyst.
-I am excited about the opportunity to work with a team of experienced professionals and continue to grow my skills and knowledge as a Data Analyst. I am confident that I have what it takes to succeed in this role, and I am looking forward to contributing my skills and knowledge to help organizations achieve their goals.
+Skills
+Microsoft Excel: Proficient in utilizing advanced Excel functions, data manipulation, and analysis techniques, including pivot tables, VLOOKUP, and data visualization.
+
+SQL: Experienced in writing complex SQL queries to extract, manipulate, and analyze data from relational databases. Skilled in data modeling, performance tuning, and database management.
+
+Python: Proficient in Python programming and data manipulation libraries such as pandas and NumPy. Skilled in data preprocessing, exploratory data analysis, and statistical modeling.
+
+Power BI: Experienced in creating interactive dashboards and reports in Power BI to visualize and communicate data insights effectively. Proficient in data modeling, DAX calculations, and data transformation.
+
+Tableau: Skilled in creating visually appealing and interactive data visualizations using Tableau. Experienced in creating complex dashboards, storyboards, and data blending.
+
 
 
 
