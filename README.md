@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohsen</h1>
-<h3 align="center">Machine Learning ,Deep Learning, and Nlp Freelancer</h3>
+<h3 align="center">Data Analyst</h3>
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/h9-tect)
 - you can find my youtube channel [here](https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA)
