@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohsen</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [My projects]([https://github.com/h9-tect](https://github.com/MohamedMohsen01?tab=repositories)
+- 👨‍💻 All of my projects are available at [My projects][https://github.com/MohamedMohsen01?tab=repositories]
 - you can find my youtube channel [here](https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA)
 - 📝 I regularly write articles on [my blog](https://www.blogger.com/blog/posts/7869356261850495689?pli=1)
 - 	  
