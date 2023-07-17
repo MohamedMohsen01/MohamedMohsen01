@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
+<h5 align="center">I’m a **Data Analyst** with a strong Engineering background, adept at leveraging my skills to support detailed and efficient analysis. My insatiable intellectual curiosity drives me to uncover hidden gems within vast sets of structured, semi-structured, and raw data. Strengths including strong analytical problem-solving abilities and a knack for collaborating across diverse groups, make me a valuable addition to any team. </h5>
 
 - 🔭 I’m a **Data Analyst** with a strong Engineering background, adept at leveraging my skills to support detailed and efficient analysis. My insatiable intellectual curiosity drives me to uncover hidden gems within vast sets of structured, semi-structured, and raw data. Strengths including strong analytical problem-solving abilities and a knack for collaborating across diverse groups, make me a valuable addition to any team.
 
