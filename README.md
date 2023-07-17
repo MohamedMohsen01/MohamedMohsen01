@@ -1,31 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mohsen</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Rohan Mudgalkar</h1>
+<h3 align="center">Analytically minded self starter with a strong passion for data science and analytics</h3>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 👨‍💻 All of my projects are available at [My projects](https://github.com/MohamedMohsen01?tab=repositories)
-- you can find my youtube channel [here](https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA)
-- 📝 I regularly write articles on [my blog](https://www.blogger.com/blog/posts/7869356261850495689?pli=1)
-- 	  
-- 📫 How to reach me **mohamedmohsen2301@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1zUy7rAkJ010OLL7oyJ52JktrmvEXYrDB/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
+
+- 🔭 I’m currently working as a Data Scientist at **Bayer**
+- :closed_book: I'm a graduate student at the University of Illinois Urbana Champaign
+- 👨‍💻 All of my projects are available [here](https://github.com/Rohan9920?tab=repositories)
+- 📫 Reach out to me at **rohan.mudgalkar@gmail.com**
+
+## Connect with me: ##
 <p align="left">
-<a href="https://www.linkedin.com/in/hesham-haroon-33702a189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hesham haroon" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13250216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13250216" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hesham.haroon.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hesham haroon" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/rohan-mudgalkar-27703b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&locale=en&layout=compact" alt="h9-tect" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h9-tect&show_icons=true&locale=en" alt="h9-tect" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h9-tect&" alt="h9-tect" /></p>
-## ❤ Views and Followers
-<a href="https://github.com/h9-tect/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
-<a href="https://github.com/h9-tect?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+## Languages and Tools: ###
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan9920&theme=dark" alt="rohan9920" /></p>
+<br></br>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rohan9920&show_icons=true&theme=dark&locale=en&layout=compact" alt="rohan9920" /></p>
 
