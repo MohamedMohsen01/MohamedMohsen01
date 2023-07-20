@@ -6,7 +6,8 @@
 
 
 
-- 🔭 I’m a **Data Analyst** with a strong Engineering background, adept at leveraging my skills to support detailed and efficient analysis. My insatiable intellectual curiosity drives me to uncover hidden gems within vast sets of structured, semi-structured, and raw data. Strengths including strong analytical problem-solving abilities and a knack for collaborating across diverse groups, make me a valuable addition to any team.
+- 🔭 I’m a **Data Analyst** with a strong Engineering background, adept at leveraging my skills to support detailed and efficient analysis. My insatiable intellectual curiosity drives me to uncover hidden gems within vast sets of structured, semi-structured, and raw data.
+- Strengths including strong analytical problem-solving abilities and a knack for collaborating across diverse groups, make me a valuable addition to any team.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/MohamedMohsen01?tab=repositories)
 - 📫 Reach out to me at **mohamedmohsen2301@gmail.com**
