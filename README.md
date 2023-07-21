@@ -23,7 +23,7 @@
 - Programming/Languages: SQL, Python, Excel VBA 
 - Databases: Microsoft SQL Server/T-SQL, MySQL, PostgreSQL, SQLite
 - Analytical Tools/Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Sci-kit 
-- Data Visualization/BI Tools: Microsoft Excel (Pivots Tables, Dashboard reporting, VLOOKUP, Macros), Tableau, Power B
+- Data Visualization/BI Tools: Microsoft Excel (Pivots Tables, Dashboard reporting, VLOOKUP, Macros), Tableau, Power BI
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
