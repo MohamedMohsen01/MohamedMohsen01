@@ -17,9 +17,15 @@
 
 
 
+## My skills include:  ###
+
+• Data Analysis: Proficient in extracting, cleaning, transforming, and analyzing large datasets to identify trends, patterns, and anomalies.
+• Programming/Languages: SQL, Python, Excel VBA 
+• Databases: Microsoft SQL Server/T-SQL, MySQL, PostgreSQL, SQLite
+• Analytical Tools/Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Sci-kit 
+• Data Visualization/BI Tools: Microsoft Excel (Pivots Tables, Dashboard reporting, VLOOKUP, Macros), Tableau, Power B
 
 
-## Languages and Tools: ###
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
