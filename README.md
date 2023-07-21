@@ -35,3 +35,7 @@
 
 
 
+
+
+- Beyond technical skills, I am a highly motivated, hard-working and confident individual with excellent communication and collaboration abilities. I am adept at translating complex data analysis concepts into meaningful insights for both technical and non-technical stakeholders.
+
