@@ -1,9 +1,11 @@
 <h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
-<h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
- 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
+
+ <h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
+ 
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Analytics%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25"></a>
 </p> 
 
