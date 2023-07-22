@@ -40,13 +40,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-05122A?style=for-the-badge&logo=microsoftexcel&logoColor=Excel)
 ![Pandas](https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=GitHub)
-
-
-
-
 
 
 - Beyond technical skills, I am a highly motivated, hard-working and confident individual with excellent communication and collaboration abilities. I am adept at translating complex data analysis concepts into meaningful insights for both technical and non-technical stakeholders.
