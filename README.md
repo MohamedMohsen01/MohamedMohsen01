@@ -12,6 +12,7 @@
 - 🔭 I’m a **Data Analyst** with a strong Engineering background.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/MohamedMohsen01?tab=repositories)
+- ⚡ Currently, I'm learning new skills.
 - 📫 Reach out to me at **mohamedmohsen2301@gmail.com**
 
 ## Connect with me: ##
