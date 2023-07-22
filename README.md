@@ -32,7 +32,7 @@
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Microsoft-SQL-Server](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=microsoft-sql-server&logoColor=mssqlserver)
+![Microsoft SQL Server](https://img.shields.io/badge/mssqlserver-3670A0?style=for-the-badge&logo=microsoft-sql-server&logoColor=mssqlserver)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
