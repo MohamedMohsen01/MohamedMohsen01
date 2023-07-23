@@ -20,7 +20,7 @@
 
 ## Connect with me: ##
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamedmohsen01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamedmohsen01/" target="_blank"><img src="https://img.shields.io/badge/-Adham%20AlQatawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
