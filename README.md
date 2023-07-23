@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I'm a proficient **Data Analyst** with a robust Engineering background.
+- 🔭 I'm a proficient **Data Analyst** with a strong Engineering background.
 - ⚡ Currently, I'm working on a new Project.
 - 👨‍💻 All of my projects are available [here](https://github.com/MohamedMohsen01?tab=repositories)
 - 📫 Reach out to me at **mohamedmohsen2301@gmail.com**
