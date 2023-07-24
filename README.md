@@ -29,6 +29,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=pandas)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=matplotlib)
 ![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoftSQLserver-3670A0?style=for-the-badge&logo=microsoft-sql-server&logoColor=microsoftSQLserver)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
