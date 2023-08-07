@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
-<h3 align="center">Analytically minded self starter with a strong passion for data analytics </h3>
+<h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
