@@ -16,7 +16,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Space</title>
+    
 </head>
 <body>
     <ul>
