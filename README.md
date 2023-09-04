@@ -2,30 +2,54 @@
 <h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
 
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25"></a>
 </p> 
  
+
  
 
-<img align="right" alt="Coding" width="300"  
- src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Add CSS styles for spacing and alignment */
+        .container {
+            display: flex;
+            align-items: center;
+            gap: 20px; /* Adjust the gap as needed */
+        }
 
+        .container img {
+            width: 300px;
+            float: right; /* Align the image to the right */
+        }
 
-
-
-<br>- 🔭 I'm a proficient **Data Analyst** with a strong Engineering background.
-- 👨‍💻 All of my projects are available [here](https://github.com/MohamedMohsen01?tab=repositories)
-- ⚡ Currently, I'm working on a new Project.
-- 📫 Reach out to me at **mohamedmohsen2301@gmail.com**
-
-## Connect with me: ##
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamedmohsen01/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mohsen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-
+        .info {
+            /* Add styles for your info list here */
+        }
+    </style>
+    <title>Your Page Title</title>
+</head>
+<body>
+    <div class="container">
+        <img alt="Coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+        <div class="info">
+            <ul>
+                <li>🔭 I'm a proficient <strong>Data Analyst</strong> with a strong Engineering background.</li>
+                <li>👨‍💻 All of my projects are available <a href="https://github.com/MohamedMohsen01?tab=repositories">here</a></li>
+                <li>⚡ Currently, I'm working on a new Project.</li>
+                <li>📫 Reach out to me at <strong>mohamedmohsen2301@gmail.com</strong></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
 
 
 ## My skills include:  ###
