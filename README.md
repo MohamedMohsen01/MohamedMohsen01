@@ -34,7 +34,7 @@
 ![Matplotlib-11557C](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/dbaaf49b-e705-4a42-bafc-70d624733a96)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
 ![Microsoft_SQL_Server-CC2927](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/92f5ce30-8e69-4df9-aa07-fcd3063946aa)
-![MySQL-4479A1](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/985d953f-3d98-4393-97d7-ba87d0b0539d)
+![MySQL](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/985d953f-3d98-4393-97d7-ba87d0b0539d)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
