@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
+![Matplotlib-11557C](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/9a879626-a6d5-4075-8c2d-2950410ea6d5)<h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
 <h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
 
 
@@ -31,6 +31,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas-150458](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/b4c56201-f9e5-4cbf-8bcc-69fd23cdd7a5)
+![Matplotlib-11557C](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/dbaaf49b-e705-4a42-bafc-70d624733a96)
+
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffdd54)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
