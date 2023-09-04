@@ -26,10 +26,6 @@
 
 
 
-
-
-
-
 ## My skills include:  ###
 
 
