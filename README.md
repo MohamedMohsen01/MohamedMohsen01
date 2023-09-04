@@ -47,7 +47,7 @@
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
-![jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
+![jupyter](https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60")
 
 ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=GitHub)
