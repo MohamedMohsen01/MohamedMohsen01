@@ -29,22 +29,6 @@
 
 ## My skills include:  ###
 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=pandas)
-![Matplotlib](https://img.shields.io/badge/matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffdd54)
-![Seaborn](https://img.shields.io/badge/seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
-![Microsoft SQL Server](https://img.shields.io/badge/microsoftSQLserver-3670A0?style=for-the-badge&logo=microsoft-sql-server&logoColor=microsoftSQLserver)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=Git)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=GitHub)
-
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffdd54)
@@ -61,45 +45,6 @@
 
 
 
-| Technology              | Badge                                                                                                  |
-|-------------------------|--------------------------------------------------------------------------------------------------------|
-| Python                  | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| Pandas                  | ![Pandas](https://img.shields.io/badge/Pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54) |
-| Matplotlib              | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffdd54) |
-| Seaborn                 | ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54) |
-| Microsoft SQL Server    | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-3670A0?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-| MySQL                   | ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white) |
-| PostgreSQL              | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| Tableau                 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
-| Power BI                | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| Microsoft Excel         | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| Jupyter                 | ![Jupyter](https://img.shields.io/badge/Jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=white) |
-| Git                     | ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white) |
-| GitHub                  | ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white) |
-
-
-badge_info = [
-    {"name": "Python", "color": "3670A0", "logo": "python", "logoColor": "ffdd54"},
-    {"name": "Pandas", "color": "3670A0", "logo": "pandas", "logoColor": "pandas"},
-    {"name": "Matplotlib", "color": "3670A0", "logo": "matplotlib", "logoColor": "ffdd54"},
-    {"name": "Seaborn", "color": "3670A0", "logo": "seaborn", "logoColor": "ffdd54"},
-    {"name": "Microsoft SQL Server", "color": "3670A0", "logo": "microsoft-sql-server", "logoColor": "microsoftSQLserver"},
-    {"name": "MySQL", "color": "00f", "logo": "mysql", "logoColor": "white"},
-    {"name": "PostgreSQL", "color": "316192", "logo": "postgresql", "logoColor": "white"},
-    {"name": "Tableau", "color": "E97627", "logo": "Tableau", "logoColor": "white"},
-    {"name": "Power BI", "color": "F2C811", "logo": "powerbi", "logoColor": "black"},
-    {"name": "Microsoft Excel", "color": "217346", "logo": "microsoft-excel", "logoColor": "white"},
-    {"name": "Jupyter", "color": "E97627", "logo": "jupyter", "logoColor": "white"},
-    {"name": "Git", "color": "05122A", "logo": "git", "logoColor": "Git"},
-    {"name": "GitHub", "color": "05122A", "logo": "github", "logoColor": "GitHub"}
-]
-
-badge_display = ""
-
-for badge in badge_info:
-    badge_display += f"![{badge['name']}](https://img.shields.io/badge/{badge['name']}-{badge['color']}?style=for-the-badge&logo={badge['logo']}&logoColor={badge['logoColor']})\n"
-
-print(badge_display)
 
 
 
