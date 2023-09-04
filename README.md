@@ -41,7 +41,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-217346?style=for-the-badge&logo=jupyter&logoColor=)
-[![Jupyter](https://img.shields.io/badge/Jupyter-217346?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-217346?style=for-the-badge&logo=jupyter&logoColor=orange)]
 
 
 
