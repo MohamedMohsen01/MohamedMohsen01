@@ -45,6 +45,21 @@
 
 
 
+| Technology              | Badge                                                                                                                      |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Python                  | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3670A0) |
+| Pandas                  | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffdd54&labelColor=150458) |
+| Matplotlib              | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=ffdd54&labelColor=11557C) |
+| Seaborn                 | ![Seaborn](https://img.shields.io/badge/Seaborn-006666?style=for-the-badge&logo=seaborn&logoColor=ffdd54&labelColor=006666) |
+| Microsoft SQL Server    | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927) |
+| MySQL                   | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F) |
+| PostgreSQL              | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791) |
+| Tableau                 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=E97627) |
+| Power BI                | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F2C811) |
+| Microsoft Excel         | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346) |
+| Jupyter                 | ![Jupyter](https://img.shields.io/badge/Jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=E97627) |
+| Git                     | ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white&labelColor=05122A) |
+| GitHub                  | ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white&labelColor=05122A) |
 
 
 
