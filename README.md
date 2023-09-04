@@ -78,6 +78,28 @@
 | GitHub                  | ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white) |
 
 
+badge_info = [
+    {"name": "Python", "color": "3670A0", "logo": "python", "logoColor": "ffdd54"},
+    {"name": "Pandas", "color": "3670A0", "logo": "pandas", "logoColor": "pandas"},
+    {"name": "Matplotlib", "color": "3670A0", "logo": "matplotlib", "logoColor": "ffdd54"},
+    {"name": "Seaborn", "color": "3670A0", "logo": "seaborn", "logoColor": "ffdd54"},
+    {"name": "Microsoft SQL Server", "color": "3670A0", "logo": "microsoft-sql-server", "logoColor": "microsoftSQLserver"},
+    {"name": "MySQL", "color": "00f", "logo": "mysql", "logoColor": "white"},
+    {"name": "PostgreSQL", "color": "316192", "logo": "postgresql", "logoColor": "white"},
+    {"name": "Tableau", "color": "E97627", "logo": "Tableau", "logoColor": "white"},
+    {"name": "Power BI", "color": "F2C811", "logo": "powerbi", "logoColor": "black"},
+    {"name": "Microsoft Excel", "color": "217346", "logo": "microsoft-excel", "logoColor": "white"},
+    {"name": "Jupyter", "color": "E97627", "logo": "jupyter", "logoColor": "white"},
+    {"name": "Git", "color": "05122A", "logo": "git", "logoColor": "Git"},
+    {"name": "GitHub", "color": "05122A", "logo": "github", "logoColor": "GitHub"}
+]
+
+badge_display = ""
+
+for badge in badge_info:
+    badge_display += f"![{badge['name']}](https://img.shields.io/badge/{badge['name']}-{badge['color']}?style=for-the-badge&logo={badge['logo']}&logoColor={badge['logoColor']})\n"
+
+print(badge_display)
 
 
 
