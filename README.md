@@ -13,25 +13,6 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    
-</head>
-<body>
-    <ul>
-        <li>🔭 I'm a <strong>Data Analyst</strong> with a strong Engineering background.</li>
-        <li>👨‍💻 All of my projects are available <a href="https://github.com/MohamedMohsen01?tab=repositories">here</a></li>
-        <li>⚡ Currently, I'm working on a new Project.</li>
-        <li>📫 Reach out to me at <strong>mohamedmohsen2301@gmail.com</strong></li>
-    </ul>
-</body>
-</html>
-
-
-
-
-
 - 🔭 I'm a **Data Analyst** with a strong Engineering background.
 - 👨‍💻 All of my projects are available [here](https://github.com/MohamedMohsen01?tab=repositories)
 - ⚡ Currently, I'm working on a new Project.
@@ -46,7 +27,7 @@
 
 
 
-## My skills include:  ###
+## My Technical skills include:  ###
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas-150458](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/b4c56201-f9e5-4cbf-8bcc-69fd23cdd7a5)
