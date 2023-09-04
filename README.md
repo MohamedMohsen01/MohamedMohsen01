@@ -43,5 +43,7 @@
 ![jupyter](https://img.shields.io/badge/jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=jupyter)
 ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=GitHub)
+![Jupyter](https://img.shields.io/badge/Jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 
