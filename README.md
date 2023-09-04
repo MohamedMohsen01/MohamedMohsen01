@@ -30,11 +30,13 @@
 ## My Technical skills include:  ###
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/b4c56201-f9e5-4cbf-8bcc-69fd23cdd7a5)
-![NumPy](https://img.shields.io/badge/NumPy-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
-
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-3670A0?style=for-the-badge&logo=numpy&logoColor=ffdd54)](https://numpy.org/)
+
+
+[![NumPy](https://img.shields.io/badge/NumPy-3670A0?style=for-the-badge&logo=numpy&logoColor=ffdd54)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)](https://seaborn.pydata.org/)
 
 ![Matplotlib-11557C](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/dbaaf49b-e705-4a42-bafc-70d624733a96)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
