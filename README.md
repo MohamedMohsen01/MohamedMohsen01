@@ -61,5 +61,23 @@
 
 
 
+| Technology              | Badge                                                                                                  |
+|-------------------------|--------------------------------------------------------------------------------------------------------|
+| Python                  | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| Pandas                  | ![Pandas](https://img.shields.io/badge/Pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54) |
+| Matplotlib              | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=ffdd54) |
+| Seaborn                 | ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54) |
+| Microsoft SQL Server    | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-3670A0?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| MySQL                   | ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white) |
+| PostgreSQL              | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| Tableau                 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) |
+| Power BI                | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| Microsoft Excel         | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| Jupyter                 | ![Jupyter](https://img.shields.io/badge/Jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=white) |
+| Git                     | ![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git&logoColor=white) |
+| GitHub                  | ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white) |
+
+
+
 
 
