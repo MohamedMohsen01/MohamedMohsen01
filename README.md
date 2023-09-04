@@ -1,4 +1,4 @@
-![Matplotlib-11557C](https://github.com/MohamedMohsen01/MohamedMohsen01/assets/109850173/9a879626-a6d5-4075-8c2d-2950410ea6d5)<h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
+<h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
 <h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
 
 
