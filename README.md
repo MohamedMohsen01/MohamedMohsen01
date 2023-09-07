@@ -22,9 +22,6 @@
 
 
 
-## Connect with me: ##
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamedmohsen01/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Mohsen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
