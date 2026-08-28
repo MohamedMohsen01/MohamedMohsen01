@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Mohsen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20and%20Controls%20%Engineer&descSize=16&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Mohsen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20and%20Controls%20Engineer&descSize=16&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Specializing+in+LLMs%2C+RAG%2C+and+Agentic+AI;6%2B+years+turning+research+into+products)](https://git.io/typing-svg)
 
