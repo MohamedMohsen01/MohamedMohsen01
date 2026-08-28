@@ -17,9 +17,7 @@
 
 ## About
 
-AI/ML engineer with **6+ years** building production systems. Currently **AI Team Lead** at Egyptian Company for Cosmetics, where I architect enterprise AI solutions and lead engineering teams.
-
-I specialize in **Generative AI**, **Agentic LLM Systems**, and **Arabic NLP** — transforming cutting-edge research into scalable products that drive real business impact.
+M.S. Electrical Engineering candidate at The University of Texas at Arlington, focused on control systems, industrial automation, and robotics. Skilled in PLC programming, HMI/SCADA, robotics integration, motion control, and industrial networks, with a strong interest in automated manufacturing systems and robotics applications.
 
 <br>
 
