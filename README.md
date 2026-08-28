@@ -1,43 +1,54 @@
-<h1 align="center">Hello 👋, I'm Mohamed Mohsen</h1>
-<h3 align="center">Analytically minded self starter with a strong passion for data analytics/science </h3>
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25"></a>
-</p> 
- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=👋+Hi%2C+I’m+Engineer+Shahd+AbouHashem+👩‍💻" alt="Typing SVG" />
+</p>
+
+🎓 Mechatronics and Automation Engineering Graduate (Ain Shams University & University of East London UK Dual Degree, 2025)  
+💡 Passionate about **Robotics, Automation, Embedded Systems, AI/ML, and Biomedical.**  
+🚀 My repos range from **industrial automation** projects to **robotics & AI** experiments. 
+
+---
+
+<h2 align="center">🌐 Connect with Me 🌐  </h2>
+
+<p align="center">
+  <a href="mailto:shahdabouhashem02@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahd-m-abouhashem/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/user/17809cedfa1668b1857e295aac449c2c" target="_blank">
+      <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+  </a>
+  <a href="https://www.udemy.com/user/shahd-abouhashem-2/" target="_blank">
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
+  </a>
+  <a href="https://wuzzuf.net/me/shahd-abouhashem-59463e1ec0?utm_medium=other&utm_source=referral" target="_blank">
+      <img src="https://img.shields.io/badge/Wuzzuf-2C8EBB?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/Shahd-AbouHashem" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
-- 🔭 I'm a **Data Analyst** with a strong Engineering background.
-- 👨‍💻 All of my projects are available [here](https://github.com/MohamedMohsen01?tab=repositories)
-- ⚡ Currently, I'm working on a new Project.
-- 📫 Reach out to me at **momohsen347@gmail.com**.
+---
+
+<h2 align="center">🛠️ Tech Skills  🛠️</h2>
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,eclipse,py,raspberrypi,ros,unity,vscode,arduino,autocad,ai,pytorch,github,matlab,anaconda,cpp,ubuntu,opencv,tensorflow,visualstudio" />
+  </a>
+</p>
 
+--- 
 
+<h2 align="center">⚡ Stats ⚡</h2>
 
-
-
-
-## My Technical skills include:  ###
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-3670A0?style=for-the-badge&logo=numpy&logoColor=ffdd54)](https://numpy.org/)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=ffdd54)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-E97627?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd-AbouHashem&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
