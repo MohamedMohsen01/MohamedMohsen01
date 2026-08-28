@@ -21,7 +21,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 <br>
 
-## Tech Stack
 
 <div align="center">
 
