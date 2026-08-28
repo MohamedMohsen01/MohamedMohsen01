@@ -1,12 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mohamed%20Mohsen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Team%20Lead%20%7C%20GenAI%20Architect%20%7C%20NLP%20Engineer&descSize=16&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hesham%20Haroon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Team%20Lead%20%7C%20GenAI%20Architect%20%7C%20NLP%20Engineer&descSize=16&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;Specializing+in+LLMs%2C+RAG%2C+and+Agentic+AI;6%2B+years+turning+research+into+products)](https://git.io/typing-svg)
 
 <br>
 
-www.linkedin.com/in/momohsen1
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://protofolio-production.up.railway.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hesham-haroon)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamharoon19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h9-tec)
 
 </div>
 
