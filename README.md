@@ -24,7 +24,7 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 <div align="center">
 
-<h2 align="center">🛠️ Tech Skills  🛠️</h2>
+## Tech Skills
 
 
 <p align="center">
