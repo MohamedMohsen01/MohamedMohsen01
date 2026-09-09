@@ -134,22 +134,6 @@ This project helped me get more comfortable with PLC program structure, sequenci
 
 ---
 
-## Engineering Interests
-
-<div align="center">
-
-`Industrial Automation` •
-`Control Systems` •
-`Robotics Integration` •
-`Motion Control` •
-`Embedded Systems` •
-`Industrial Networks` •
-`Smart Manufacturing`
-
-</div>
-
----
-
 <br><br>
 
 <p align="center">
