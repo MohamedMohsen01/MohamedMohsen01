@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Mohamed%20Mohsen&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Automation%20and%20Controls%20Engineer&descSize=15&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:172554,100:0F766E&height=260&section=header&text=Mohamed%20Mohsen&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Automation%20%26%20Controls%20Engineer&descSize=17&descAlignY=57)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
