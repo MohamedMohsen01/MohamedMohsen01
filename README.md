@@ -226,6 +226,8 @@ Background in mechanical systems, electronics, controls, robotics, and embedded 
 
 <br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:172554,100:0B1120&height=120&section=footer)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:172554,100:0B1120&height=170&section=footer" />
+</p>
 
 </div>
