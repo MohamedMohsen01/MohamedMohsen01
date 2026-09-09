@@ -137,47 +137,6 @@ This project helped me get more comfortable with **PLC program structure, sequen
 
 ---
 
-## Custom 3D Printer
-
-**Mechatronics · Motion Control · Motors · System Integration**
-
-I built a custom 3D printer from the ground up as a hands-on mechatronics project.
-
-The project involved putting together the mechanical structure, electrical components, motors, and extrusion system and getting everything to work together as one machine.
-
-### What I worked on
-
-- Multi-axis movement
-- Stepper motor setup and control
-- Extruder and nozzle system
-- Mechanical assembly and alignment
-- Electrical wiring
-- Motor and motion troubleshooting
-- Overall system integration
-
-It gave me practical experience with **motion systems, motors, mechanical design, and electromechanical troubleshooting**.
-
----
-
-## Embedded Drone System
-
-**Microcontrollers · C · Motors · Embedded Systems**
-
-For my undergraduate project, I worked on a microcontroller-based drone system that combined embedded programming, electronics, sensors, and motor control.
-
-### What I worked on
-
-- Embedded C programming
-- Microcontroller programming
-- Motor control
-- Sensor and actuator interfacing
-- Hardware and software integration
-- System testing and troubleshooting
-
-The project gave me experience working with **embedded control systems and integrating software with physical hardware**.
-
----
-
 ## Engineering Interests
 
 <div align="center">
@@ -193,26 +152,6 @@ The project gave me experience working with **embedded control systems and integ
 </div>
 
 ---
-
-## Education
-
-### The University of Texas at Arlington
-
-**M.S. Electrical Engineering**
-
-Current areas of study include control systems, embedded systems, automation, and robotics.
-
-<br>
-
-### B.S. Mechatronics Engineering
-
-Background in mechanical systems, electronics, controls, robotics, and embedded programming.
-
----
-
-<div align="center">
-
-### Interested in automation, controls, robotics, and the systems that bring them together.
 
 <br>
 
