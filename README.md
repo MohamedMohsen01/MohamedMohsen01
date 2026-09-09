@@ -117,7 +117,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 **Siemens TIA Portal · S7 PLC · Factory I/O**
 
 I built this project to get hands-on experience designing the control logic for a complete automated manufacturing process.
-
 The system uses a Siemens PLC with Factory I/O to control different parts of the manufacturing line, including material handling, machining, sorting, and assembly.
 
 ### What I worked on
@@ -133,7 +132,7 @@ The system uses a Siemens PLC with Factory I/O to control different parts of the
 - Added fault handling
 - Tracked products as they moved through the process
 
-This project helped me get more comfortable with **PLC program structure, sequencing, troubleshooting, and manufacturing automation**.
+This project helped me get more comfortable with PLC program structure, sequencing, troubleshooting, and manufacturing automation.
 
 ---
 
@@ -152,7 +151,6 @@ This project helped me get more comfortable with **PLC program structure, sequen
 </div>
 
 ---
-
 
 <br><br>
 
