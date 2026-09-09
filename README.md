@@ -45,8 +45,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 **Controls:** PID Control · Motion Control · Servo Systems · VFDs · Sequence Control · Interlocks · Fault Handling
 
-**Automation:** PLC/HMI Integration · Manufacturing Automation · Commissioning · FAT/SAT · Troubleshooting
-
 ---
 
 ## Industrial Communication
