@@ -132,8 +132,6 @@ The system uses a Siemens PLC with Factory I/O to control different parts of the
 
 This project helped me get more comfortable with PLC program structure, sequencing, troubleshooting, and manufacturing automation.
 
----
-
 <br><br>
 
 <p align="center">
