@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Mechatronics Engineer currently pursuing an **M.S. in Electrical Engineering at The University of Texas at Arlington**, where I'm focusing on **control systems, industrial automation, embedded systems, and robotics**.
+I'm a Automation and Controls Engineer currently pursuing an **M.S. in Electrical Engineering at The University of Texas at Arlington**, where I'm focusing on **control systems, industrial automation, embedded systems, and robotics**.
 
 I'm especially interested in systems where software interacts with real hardware. I enjoy working with PLCs, industrial networks, robotics, motion systems, and embedded controllers, and I like understanding how all of those pieces work together in an automated system.
 
