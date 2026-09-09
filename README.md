@@ -11,7 +11,7 @@
 
 </div>
 
-### About Me
+## About Me
 
 M.S. Electrical Engineering candidate at The University of Texas at Arlington, focused on control systems, industrial automation, embedded systems, and robotics. Skilled in PLC programming, HMI/SCADA, robotics integration, motion control, and industrial networks, with a strong interest in automated manufacturing systems and robotics applications.
 
