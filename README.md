@@ -64,14 +64,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ---
 
-<br>
-
-**Robotics:** ROS / ROS 2 · Gazebo · RViz2 · MoveIt 2 · FANUC · ABB · OpenCV
-
-**Embedded Systems:** STM32 · ARM Cortex-M · GPIO · PWM · UART · SPI · I²C · ADC · Timers
-
----
-
 ## Programming & Engineering Tools
 
 <p align="center">
