@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:172554,100:0F766E&height=230&section=header&text=Mohamed%20Mohsen&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Automation%20%26%20Controls%20Engineer%20%7C%20Robotics%20%7C%20Embedded%20Systems&descSize=17&descAlignY=56)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:172554,100:0F766E&height=230&section=header&text=Mohamed%20Mohsen&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Automation%20%26%20Controls%20%7C%20Robotics%20%7C%20Embedded%20Systems&descSize=17&descAlignY=56)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
@@ -12,9 +12,9 @@
 
 I'm a Mechatronics Engineer currently pursuing an **M.S. in Electrical Engineering at The University of Texas at Arlington**, where I'm focusing on **control systems, industrial automation, embedded systems, and robotics**.
 
-I'm especially interested in the connection between software and real-world hardware. I enjoy working with PLCs, industrial networks, robotics, motion systems, and embedded controllers, and I like understanding how all of those pieces come together in an automated system.
+I'm especially interested in systems where software interacts with real hardware. I enjoy working with PLCs, industrial networks, robotics, motion systems, and embedded controllers, and I like understanding how all of those pieces work together in an automated system.
 
-My goal is to keep building experience in **automation, controls, and robotics integration**, particularly in manufacturing environments.
+I'm continuing to build my experience in **automation, controls, robotics integration, and advanced manufacturing systems**.
 
 ---
 
@@ -88,7 +88,7 @@ My goal is to keep building experience in **automation, controls, and robotics i
 
 **Robotics:** ROS / ROS 2 · Gazebo · RViz2 · MoveIt 2 · FANUC · ABB · OpenCV
 
-**Embedded:** STM32 · ARM Cortex-M · GPIO · PWM · UART · SPI · I²C · ADC · Timers
+**Embedded Systems:** STM32 · ARM Cortex-M · GPIO · PWM · UART · SPI · I²C · ADC · Timers
 
 ---
 
@@ -120,16 +120,16 @@ My goal is to keep building experience in **automation, controls, and robotics i
 
 I built this project to get hands-on experience designing the control logic for a complete automated manufacturing process.
 
-The system uses a Siemens PLC with Factory I/O to control different stages of the manufacturing line, including material handling, machining, sorting, and assembly.
+The system uses a Siemens PLC with Factory I/O to control different parts of the manufacturing line, including material handling, machining, sorting, and assembly.
 
 ### What I worked on
 
 - Structured the PLC program using separate function blocks
-- Created the automatic operating sequence
+- Built the automatic operating sequence
 - Integrated sensors and actuators throughout the system
 - Programmed pick-and-place operations
 - Controlled the machining stations
-- Added sorting and assembly logic
+- Added product sorting and assembly logic
 - Created automatic and manual operating modes
 - Added emergency-stop and interlock logic
 - Added fault handling
@@ -141,11 +141,11 @@ This project helped me get more comfortable with **PLC program structure, sequen
 
 ## Custom 3D Printer
 
-**Mechatronics · Motion Control · System Integration**
+**Mechatronics · Motion Control · Motors · System Integration**
 
 I built a custom 3D printer from the ground up as a hands-on mechatronics project.
 
-The project involved putting together the mechanical structure, electrical system, motors, and extrusion system and getting everything to work together as one machine.
+The project involved putting together the mechanical structure, electrical components, motors, and extrusion system and getting everything to work together as one machine.
 
 ### What I worked on
 
@@ -174,7 +174,7 @@ For my undergraduate project, I worked on a microcontroller-based drone system t
 - Motor control
 - Sensor and actuator interfacing
 - Hardware and software integration
-- Testing and troubleshooting
+- System testing and troubleshooting
 
 The project gave me experience working with **embedded control systems and integrating software with physical hardware**.
 
