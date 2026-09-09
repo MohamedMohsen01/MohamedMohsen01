@@ -157,7 +157,7 @@ This project helped me get more comfortable with **PLC program structure, sequen
 <br><br>
 
 <p align="center">
-  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:172554,100:0B1120&height=170&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0B1120&height=170&section=footer" />
 </p>
 
 </div>
