@@ -13,12 +13,7 @@
 
 ## About Me
 
-I'm a Automation and Controls Engineer currently pursuing an **M.S. in Electrical Engineering at The University of Texas at Arlington**, where I'm focusing on **control systems, industrial automation, embedded systems, and robotics**.
-
-I'm especially interested in systems where software interacts with real hardware. I enjoy working with PLCs, industrial networks, robotics, motion systems, and embedded controllers, and I like understanding how all of those pieces work together in an automated system.
-
-I'm continuing to build my experience in **automation, controls, robotics integration, and advanced manufacturing systems**.
-
+M.S. Electrical Engineering candidate at The University of Texas at Arlington, focused on control systems, industrial automation, embedded systems, and robotics. Skilled in PLC programming, HMI/SCADA, robotics integration, motion control, and industrial networks, with a strong interest in automated manufacturing systems and robotics applications.
 ---
 
 ## Automation & Controls
