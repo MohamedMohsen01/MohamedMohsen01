@@ -131,7 +131,7 @@ The system uses a Siemens PLC with Factory I/O to control different parts of the
 - Tracked products as they moved through the process
 
 This project helped me get more comfortable with PLC program structure, sequencing, troubleshooting, and manufacturing automation.
-
+<br><br>
 <p align="center">
   <img width="85%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:1E3A8A,100:0B1120&height=160&section=footer" />
 </p>
