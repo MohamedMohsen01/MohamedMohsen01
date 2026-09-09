@@ -64,22 +64,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ---
 
-## Robotics & Embedded Systems
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/FANUC-Industrial%20Robotics-F9D616?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ABB-Industrial%20Robotics-FF000F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MoveIt%202-Motion%20Planning-2563EB?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Gazebo-Robot%20Simulation-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STM32-Embedded%20Systems-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-
-</div>
-
 <br>
 
 **Robotics:** ROS / ROS 2 · Gazebo · RViz2 · MoveIt 2 · FANUC · ABB · OpenCV
