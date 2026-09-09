@@ -16,7 +16,7 @@
 M.S. Electrical Engineering candidate at The University of Texas at Arlington, focused on control systems, industrial automation, embedded systems, and robotics. Skilled in PLC programming, HMI/SCADA, robotics integration, motion control, and industrial networks, with a strong interest in automated manufacturing systems and robotics applications.
 
 
-### Automation & Controls
+## Automation & Controls
 
 <div align="center">
 
@@ -49,7 +49,7 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ---
 
-### Industrial Communication
+## Industrial Communication
 
 <div align="center">
 
@@ -66,7 +66,7 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ---
 
-### Robotics & Embedded Systems
+## Robotics & Embedded Systems
 
 <div align="center">
 
@@ -90,7 +90,7 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ---
 
-### Programming & Engineering Tools
+## Programming & Engineering Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -112,7 +112,7 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ## Featured Projects
 
-### Automated Manufacturing Cell
+## Automated Manufacturing Cell
 
 **Siemens TIA Portal · S7 PLC · Factory I/O**
 
@@ -120,7 +120,7 @@ I built this project to get hands-on experience designing the control logic for 
 
 The system uses a Siemens PLC with Factory I/O to control different parts of the manufacturing line, including material handling, machining, sorting, and assembly.
 
-#### What I worked on
+### What I worked on
 
 - Structured the PLC program using separate function blocks
 - Built the automatic operating sequence
@@ -137,7 +137,7 @@ This project helped me get more comfortable with **PLC program structure, sequen
 
 ---
 
-### Engineering Interests
+## Engineering Interests
 
 <div align="center">
 
