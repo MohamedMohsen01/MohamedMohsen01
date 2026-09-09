@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=170&section=header&text=Mohamed%20Mohsen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20and%20Controls%20Engineer&descSize=14&descAlignY=60" />
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=170&section=header&text=Mohamed%20Mohsen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20and%20Controls%20Engineer&descSize=14&descAlignY=60" />
 </p>
 
 
@@ -153,15 +153,11 @@ This project helped me get more comfortable with **PLC program structure, sequen
 
 ---
 
-<br>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
 
 <br><br>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:172554,100:0B1120&height=170&section=footer" />
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:172554,100:0B1120&height=170&section=footer" />
 </p>
 
 </div>
