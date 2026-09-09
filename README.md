@@ -1,26 +1,24 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=blur\&color=0:0B1120,45:172554,100:0F766E\&height=240\&section=header\&text=Mohamed%20Mohsen\&fontSize=52\&fontColor=F8FAFC\&animation=scaleIn\&fontAlignY=36\&desc=Automation%20%7C%20Controls%20%7C%20Robotics\&descSize=18\&descAlignY=57\&fontFamily=Segoe%20UI)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:172554,100:0F766E&height=230&section=header&text=Mohamed%20Mohsen&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Automation%20%26%20Controls%20Engineer%20%7C%20Robotics%20%7C%20Embedded%20Systems&descSize=17&descAlignY=56)
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MohamedMohsen01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedMohsen01)
 
 </div>
 
 ## About Me
 
-I'm a Mechatronics Engineer currently pursuing an **M.S. in Electrical Engineering at The University of Texas at Arlington**, with a focus on **control systems, industrial automation, embedded systems, and robotics**.
+I'm a Mechatronics Engineer currently pursuing an **M.S. in Electrical Engineering at The University of Texas at Arlington**, where I'm focusing on **control systems, industrial automation, embedded systems, and robotics**.
 
-I enjoy working on systems where software interacts with real hardware — PLC-controlled manufacturing systems, industrial networks, robotics, motion control, embedded controllers, and automated equipment.
+I'm especially interested in the connection between software and real-world hardware. I enjoy working with PLCs, industrial networks, robotics, motion systems, and embedded controllers, and I like understanding how all of those pieces come together in an automated system.
 
-My main interests are **automation and controls engineering, robotics integration, and advanced manufacturing systems**.
+My goal is to keep building experience in **automation, controls, and robotics integration**, particularly in manufacturing environments.
 
 ---
 
-## ⚙️ Automation & Controls
+## Automation & Controls
 
 <div align="center">
 
@@ -45,15 +43,15 @@ My main interests are **automation and controls engineering, robotics integratio
 
 **PLC Programming:** Siemens TIA Portal · S7-1200/1500 · Allen-Bradley Studio 5000 · RSLogix 500 · Beckhoff TwinCAT 3
 
-**HMI / SCADA:** Siemens WinCC · Ignition · HMI Development · Industrial Visualization
+**HMI / SCADA:** Siemens WinCC · Ignition · HMI Development
 
 **Controls:** PID Control · Motion Control · Servo Systems · VFDs · Sequence Control · Interlocks · Fault Handling
 
-**Industrial Automation:** PLC/HMI Integration · Commissioning · FAT/SAT · Troubleshooting · Automated Manufacturing Systems
+**Automation:** PLC/HMI Integration · Manufacturing Automation · Commissioning · FAT/SAT · Troubleshooting
 
 ---
 
-## 🌐 Industrial Communication
+## Industrial Communication
 
 <div align="center">
 
@@ -63,20 +61,20 @@ My main interests are **automation and controls engineering, robotics integratio
 
 <br>
 
-<img src="https://img.shields.io/badge/OPC%20UA-Communication-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPC%20UA-Industrial%20Communication-475569?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Modbus-TCP%20%2F%20RTU-2563EB?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🤖 Robotics & Embedded Systems
+## Robotics & Embedded Systems
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/FANUC-Industrial%20Robotics-F9D616?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ABB-Robotics-FF000F?style=for-the-badge&logo=abb&logoColor=white" />
+<img src="https://img.shields.io/badge/ABB-Industrial%20Robotics-FF000F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MoveIt%202-Motion%20Planning-2563EB?style=for-the-badge" />
 
 <br>
@@ -90,11 +88,11 @@ My main interests are **automation and controls engineering, robotics integratio
 
 **Robotics:** ROS / ROS 2 · Gazebo · RViz2 · MoveIt 2 · FANUC · ABB · OpenCV
 
-**Embedded Systems:** STM32 · ARM Cortex-M · GPIO · PWM · UART · SPI · I²C · ADC · Timers
+**Embedded:** STM32 · ARM Cortex-M · GPIO · PWM · UART · SPI · I²C · ADC · Timers
 
 ---
 
-## 💻 Programming & Engineering Tools
+## Programming & Engineering Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -107,80 +105,82 @@ My main interests are **automation and controls engineering, robotics integratio
 <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-Embedded%20Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/C%2B%2B-Robotics%20%26%20Systems-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-Data%20%26%20Systems-4479A1?style=flat-square" />
 <img src="https://img.shields.io/badge/MATLAB-Control%20Systems-ED8B00?style=flat-square" />
 
 </div>
 
 ---
 
-# 🛠️ Featured Projects
+# Featured Projects
 
-## 🏭 Automated Manufacturing Cell
+## Automated Manufacturing Cell
 
-**Siemens TIA Portal · PLC Programming · Factory I/O · Industrial Automation**
+**Siemens TIA Portal · S7 PLC · Factory I/O**
 
-Designed and programmed an automated manufacturing system using **Siemens PLCs and Factory I/O**.
+I built this project to get hands-on experience designing the control logic for a complete automated manufacturing process.
 
-The system coordinates multiple manufacturing operations including material handling, machining, sorting, and assembly.
+The system uses a Siemens PLC with Factory I/O to control different stages of the manufacturing line, including material handling, machining, sorting, and assembly.
 
-### Key Features
+### What I worked on
 
-* Modular PLC architecture using reusable function blocks
-* Automatic manufacturing sequence control
-* Sensor and actuator integration
-* Pick-and-place operations
-* Machining station coordination
-* Product sorting and assembly
-* Automatic and manual operating modes
-* Emergency stop logic
-* Equipment interlocks
-* Fault detection and handling
-* Product tracking throughout the manufacturing process
+- Structured the PLC program using separate function blocks
+- Created the automatic operating sequence
+- Integrated sensors and actuators throughout the system
+- Programmed pick-and-place operations
+- Controlled the machining stations
+- Added sorting and assembly logic
+- Created automatic and manual operating modes
+- Added emergency-stop and interlock logic
+- Added fault handling
+- Tracked products as they moved through the process
 
-**Focus:** PLC architecture · sequence control · industrial automation · troubleshooting
-
----
-
-## 🖨️ Custom 3D Printer
-
-**Mechatronics · Motion Systems · Motors · Embedded Control**
-
-Built a custom 3D printer from the ground up by integrating the electrical, mechanical, and motion-control components of the machine.
-
-### Key Features
-
-* Multi-axis motor control
-* Stepper motor integration
-* Extruder and nozzle system
-* Mechanical assembly and alignment
-* Electrical wiring and system integration
-* Motion system troubleshooting
-
-**Focus:** Motion control · electromechanical systems · system integration
+This project helped me get more comfortable with **PLC program structure, sequencing, troubleshooting, and manufacturing automation**.
 
 ---
 
-## 🚁 Embedded Drone System
+## Custom 3D Printer
 
-**Microcontrollers · C Programming · Motors · Embedded Systems**
+**Mechatronics · Motion Control · System Integration**
 
-Developed a microcontroller-based drone system as an undergraduate engineering project.
+I built a custom 3D printer from the ground up as a hands-on mechatronics project.
 
-### Key Features
+The project involved putting together the mechanical structure, electrical system, motors, and extrusion system and getting everything to work together as one machine.
 
-* Embedded C programming
-* Microcontroller integration
-* Motor control
-* Sensor and actuator interfacing
-* Hardware/software integration
-* System testing and troubleshooting
+### What I worked on
 
-**Focus:** Embedded control · real-time systems · robotics
+- Multi-axis movement
+- Stepper motor setup and control
+- Extruder and nozzle system
+- Mechanical assembly and alignment
+- Electrical wiring
+- Motor and motion troubleshooting
+- Overall system integration
+
+It gave me practical experience with **motion systems, motors, mechanical design, and electromechanical troubleshooting**.
 
 ---
 
-## 🎯 Engineering Interests
+## Embedded Drone System
+
+**Microcontrollers · C · Motors · Embedded Systems**
+
+For my undergraduate project, I worked on a microcontroller-based drone system that combined embedded programming, electronics, sensors, and motor control.
+
+### What I worked on
+
+- Embedded C programming
+- Microcontroller programming
+- Motor control
+- Sensor and actuator interfacing
+- Hardware and software integration
+- Testing and troubleshooting
+
+The project gave me experience working with **embedded control systems and integrating software with physical hardware**.
+
+---
+
+## Engineering Interests
 
 <div align="center">
 
@@ -196,33 +196,33 @@ Developed a microcontroller-based drone system as an undergraduate engineering p
 
 ---
 
-## 🎓 Education
+## Education
 
 ### The University of Texas at Arlington
 
-**Master of Science in Electrical Engineering**
+**M.S. Electrical Engineering**
 
-Control Systems · Embedded Systems · Industrial Automation · Robotics
+Current areas of study include control systems, embedded systems, automation, and robotics.
 
 <br>
 
-### Bachelor of Science in Mechatronics Engineering
+### B.S. Mechatronics Engineering
 
-Mechanical Systems · Electronics · Control Systems · Robotics · Embedded Programming
+Background in mechanical systems, electronics, controls, robotics, and embedded programming.
 
 ---
 
 <div align="center">
 
-### Building systems that connect software, controls, and real-world hardware.
+### Interested in automation, controls, robotics, and the systems that bring them together.
 
 <br>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
 
 <br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=blur\&color=0:0F766E,55:172554,100:0B1120\&height=120\&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,55:172554,100:0B1120&height=120&section=footer)
 
 </div>
