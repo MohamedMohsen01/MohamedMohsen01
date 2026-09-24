@@ -183,17 +183,6 @@ Developing embedded applications on the STM32F407 platform to strengthen my unde
 
 **[View Projects →](YOUR_EMBEDDED_REPOSITORY_LINK)**
 
----
-
-## Let's Connect
-
-I'm interested in opportunities involving **automation engineering, controls, robotics integration, embedded systems, and advanced manufacturing**.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Mohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mohamed.mohsen5784/vizzes)
 
 <br><br>
 
