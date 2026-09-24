@@ -128,60 +128,7 @@ Designed and programmed a simulated automated manufacturing system that controls
   <img width="85%" src="YOUR_PROJECT_IMAGE_OR_GIF_URL" />
 </p>
 
-**[View Project →](YOUR_PROJECT_REPOSITORY_LINK)**
-
----
-
-### 3D Printer
-
-**Embedded Systems · Motion Control · Stepper Motors · Mechanical Design**
-
-Designed and built a 3D printer from the ground up by integrating the mechanical, electrical, and control systems.
-
-**Key Features**
-
-- Integrated X, Y, and Z motion axes
-- Controlled multiple stepper motors
-- Integrated extrusion and nozzle systems
-- Worked with motor drivers and control electronics
-- Integrated sensors and mechanical components
-- Built and assembled the mechanical structure
-- Troubleshot electrical, mechanical, and motion-control issues
-
-**Engineering Focus**
-
-`Motion Control` · `Embedded Systems` · `Stepper Motors` · `System Integration` · `Mechanical Design`
-
-**[View Project →](YOUR_PROJECT_REPOSITORY_LINK)**
-
----
-
-### Embedded Systems Projects
-
-**STM32 · ARM Cortex-M4 · C · Bare-Metal Programming**
-
-Developing embedded applications on the STM32F407 platform to strengthen my understanding of low-level microcontroller programming and hardware/software interaction.
-
-**Topics**
-
-- GPIO configuration
-- Registers and memory-mapped I/O
-- Interrupts
-- EXTI and NVIC
-- Timers
-- PWM
-- UART
-- SPI
-- I²C
-- ADC
-- Embedded C
-- Bare-metal programming
-
-**Engineering Focus**
-
-`STM32` · `Embedded C` · `ARM Cortex-M4` · `Interrupts` · `Peripheral Control`
-
-**[View Projects →](YOUR_EMBEDDED_REPOSITORY_LINK)**
+**[View Project →](https://github.com/MohamedMohsen01/Automated-Manufacturing-Line-Siemens-PLC-Factory-I-O)**
 
 
 <br><br>
