@@ -126,7 +126,6 @@ Designed and programmed a simulated automated manufacturing system that controls
 
 <p align="center">
   <img width="85%" src="YOUR_PROJECT_IMAGE_OR_GIF_URL" />
-</p>
 
 **[View Project →](https://github.com/MohamedMohsen01/Automated-Manufacturing-Line-Siemens-PLC-Factory-I-O)**
 
