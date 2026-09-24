@@ -9,96 +9,41 @@
 
 ## About Me
 
-M.S. Electrical Engineering candidate at The University of Texas at Arlington, focused on control systems, industrial automation, embedded systems, and robotics.
+M.S. Electrical Engineering candidate at **The University of Texas at Arlington**, focused on control systems, industrial automation, embedded systems, and robotics.
 
-Experienced with PLC programming, HMI/SCADA, motion control, industrial communication, embedded systems, and robotics integration, with a strong interest in automated manufacturing systems.
-
----
-
-## Automation & Controls
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Siemens-TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/Siemens-S7--1200%20%2F%20S7--1500-009999?style=flat-square&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/WinCC-HMI%20%2F%20SCADA-009999?style=flat-square&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/Allen--Bradley-Studio%205000-C8102E?style=flat-square" />
-<img src="https://img.shields.io/badge/Allen--Bradley-RSLogix%20500-C8102E?style=flat-square" />
-<img src="https://img.shields.io/badge/Beckhoff-TwinCAT%203-E30613?style=flat-square" />
-<img src="https://img.shields.io/badge/Ignition-SCADA-F7901E?style=flat-square" />
-<img src="https://img.shields.io/badge/Factory%20I%2FO-Simulation-FF6B00?style=flat-square" />
-
-</p>
-
-**Control Systems**
-
-PID Control · Motion Control · Servo Systems · VFDs · Sequence Control · Interlocks · Fault Handling · Machine Control
-
-**Industrial Automation**
-
-PLC Programming · HMI/SCADA · Sensors & Actuators · Automated Manufacturing · System Integration · Troubleshooting
+My interests center on designing and integrating automated systems that combine **PLCs, sensors, motion control, industrial communication, embedded hardware, and software** for manufacturing applications.
 
 ---
 
-## Industrial Communication
+## Technical Skills
 
-<p align="center">
+### Automation & Controls
 
-<img src="https://img.shields.io/badge/PROFINET-Industrial%20Ethernet-009999?style=flat-square" />
-<img src="https://img.shields.io/badge/EtherNet%2FIP-Industrial%20Network-C8102E?style=flat-square" />
-<img src="https://img.shields.io/badge/EtherCAT-Real--Time%20Ethernet-E30613?style=flat-square" />
-<img src="https://img.shields.io/badge/OPC%20UA-Industrial%20Communication-475569?style=flat-square" />
-<img src="https://img.shields.io/badge/Modbus-TCP%20%2F%20RTU-2563EB?style=flat-square" />
+**PLC & Automation:** Siemens TIA Portal, S7-1200/1500, Allen-Bradley Studio 5000, RSLogix 500, Beckhoff TwinCAT 3, Factory I/O
 
-</p>
+**HMI/SCADA:** WinCC, Ignition
 
-`PROFINET` · `EtherNet/IP` · `EtherCAT` · `OPC UA` · `Modbus TCP/RTU`
+**Controls:** PID Control, Motion Control, Servo Systems, VFDs, Sequence Control, Interlocks, Fault Handling, Machine Control
 
----
+### Industrial Communication
 
-## Programming, Embedded Systems & Engineering Tools
+PROFINET · EtherNet/IP · EtherCAT · OPC UA · Modbus TCP/RTU
+
+### Programming, Embedded Systems & Engineering Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,arduino,raspberrypi,linux,git,github,vscode" />
 </p>
 
-<p align="center">
+**Programming:** Python · C · C++ · SQL · MATLAB
 
-<img src="https://img.shields.io/badge/STM32-Embedded-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-Model--Based%20Design-ED8B00?style=flat-square" />
-<img src="https://img.shields.io/badge/LabVIEW-NI-FFDB00?style=flat-square" />
-<img src="https://img.shields.io/badge/AutoCAD-CAD-E51050?style=flat-square&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-CAD-E2231A?style=flat-square" />
+**Embedded Systems:** STM32 · ARM Cortex-M4 · Raspberry Pi · GPIO · PWM · UART · SPI · I²C · ADC · Interrupts
 
-</p>
+**Engineering Tools:** MATLAB / Simulink · LabVIEW · AutoCAD · SolidWorks · Git · GitHub · Linux · VS Code
 
-**Programming**
+### Robotics & Computer Vision
 
-Python · C · C++ · SQL · MATLAB
-
-**Embedded Systems**
-
-STM32 · ARM Cortex-M4 · Raspberry Pi · GPIO · PWM · UART · SPI · I²C · ADC · Interrupts
-
-**Engineering Tools**
-
-MATLAB / Simulink · LabVIEW · AutoCAD · SolidWorks · Linux · Git · GitHub · VS Code
-
----
-
-## Robotics & Computer Vision
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ROS-Robotics-22314E?style=flat-square&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS%202-Robotics-22314E?style=flat-square&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/FANUC-Industrial%20Robotics-F9D616?style=flat-square" />
-<img src="https://img.shields.io/badge/ABB-Industrial%20Robotics-FF000F?style=flat-square&logo=abb&logoColor=white" />
-
-</p>
-
-ROS / ROS 2 · OpenCV · Industrial Robotics · Robot Integration · Computer Vision
+ROS / ROS 2 · OpenCV · FANUC · ABB · Industrial Robotics · Robot Integration · Computer Vision
 
 ---
 
@@ -132,8 +77,6 @@ Designed and programmed a simulated automated manufacturing system that controls
 **Engineering Focus**
 
 `PLC Programming` · `Sequence Control` · `Sensors & Actuators` · `Interlocks` · `Fault Handling` · `Industrial Automation`
-
-<!-- Add your Factory I/O screenshot or GIF below -->
 
 <p align="center">
   <img width="85%" src="YOUR_PROJECT_IMAGE_OR_GIF_URL" />
