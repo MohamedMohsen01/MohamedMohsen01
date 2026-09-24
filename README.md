@@ -14,100 +14,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 ---
 
-## Featured Projects
-
-### Automated Manufacturing Cell
-
-**Siemens TIA Portal · Siemens S7 PLC · Factory I/O · HMI/SCADA**
-
-Designed and programmed a simulated automated manufacturing system that controls the complete production process from material handling through machining, sorting, and assembly.
-
-**System workflow**
-
-`Feeding → Pick & Place → Machining → Sorting → Assembly`
-
-**Key Features**
-
-- Structured PLC program using modular Function Blocks
-- Automatic and manual operating modes
-- Sequential machine and conveyor control
-- Pick-and-place control logic
-- Dual machining station coordination
-- Sensor-based part detection and tracking
-- Vision-based product sorting
-- Assembly sequence control
-- HMI monitoring and operator controls
-- Safety interlocks and emergency-stop logic
-- Fault detection and handling
-- Coordination between upstream and downstream stations
-
-**Engineering Focus**
-
-`PLC Programming` · `Sequence Control` · `Sensors & Actuators` · `Interlocks` · `Fault Handling` · `Industrial Automation`
-
-<!-- Add your Factory I/O screenshot or GIF below -->
-
-<p align="center">
-  <img width="85%" src="YOUR_PROJECT_IMAGE_OR_GIF_URL" />
-</p>
-
-**[View Project →](YOUR_PROJECT_REPOSITORY_LINK)**
-
----
-
-### 3D Printer
-
-**Embedded Systems · Motion Control · Stepper Motors · Mechanical Design**
-
-Designed and built a 3D printer from the ground up by integrating the mechanical, electrical, and control systems.
-
-**Key Features**
-
-- Integrated X, Y, and Z motion axes
-- Controlled multiple stepper motors
-- Integrated extrusion and nozzle systems
-- Worked with motor drivers and control electronics
-- Integrated sensors and mechanical components
-- Built and assembled the mechanical structure
-- Troubleshot electrical, mechanical, and motion-control issues
-
-**Engineering Focus**
-
-`Motion Control` · `Embedded Systems` · `Stepper Motors` · `System Integration` · `Mechanical Design`
-
-**[View Project →](YOUR_PROJECT_REPOSITORY_LINK)**
-
----
-
-### Embedded Systems Projects
-
-**STM32 · ARM Cortex-M4 · C · Bare-Metal Programming**
-
-Developing embedded applications on the STM32F407 platform to strengthen my understanding of low-level microcontroller programming and hardware/software interaction.
-
-**Topics**
-
-- GPIO configuration
-- Registers and memory-mapped I/O
-- Interrupts
-- EXTI and NVIC
-- Timers
-- PWM
-- UART
-- SPI
-- I²C
-- ADC
-- Embedded C
-- Bare-metal programming
-
-**Engineering Focus**
-
-`STM32` · `Embedded C` · `ARM Cortex-M4` · `Interrupts` · `Peripheral Control`
-
-**[View Projects →](YOUR_EMBEDDED_REPOSITORY_LINK)**
-
----
-
 ## Automation & Controls
 
 <p align="center">
@@ -218,6 +124,99 @@ I'm currently expanding my knowledge in:
 - Cyber-physical systems
 - Manufacturing automation
 - Python-based engineering applications
+
+---
+## Featured Projects
+
+### Automated Manufacturing Cell
+
+**Siemens TIA Portal · Siemens S7 PLC · Factory I/O · HMI/SCADA**
+
+Designed and programmed a simulated automated manufacturing system that controls the complete production process from material handling through machining, sorting, and assembly.
+
+**System workflow**
+
+`Feeding → Pick & Place → Machining → Sorting → Assembly`
+
+**Key Features**
+
+- Structured PLC program using modular Function Blocks
+- Automatic and manual operating modes
+- Sequential machine and conveyor control
+- Pick-and-place control logic
+- Dual machining station coordination
+- Sensor-based part detection and tracking
+- Vision-based product sorting
+- Assembly sequence control
+- HMI monitoring and operator controls
+- Safety interlocks and emergency-stop logic
+- Fault detection and handling
+- Coordination between upstream and downstream stations
+
+**Engineering Focus**
+
+`PLC Programming` · `Sequence Control` · `Sensors & Actuators` · `Interlocks` · `Fault Handling` · `Industrial Automation`
+
+<!-- Add your Factory I/O screenshot or GIF below -->
+
+<p align="center">
+  <img width="85%" src="YOUR_PROJECT_IMAGE_OR_GIF_URL" />
+</p>
+
+**[View Project →](YOUR_PROJECT_REPOSITORY_LINK)**
+
+---
+
+### 3D Printer
+
+**Embedded Systems · Motion Control · Stepper Motors · Mechanical Design**
+
+Designed and built a 3D printer from the ground up by integrating the mechanical, electrical, and control systems.
+
+**Key Features**
+
+- Integrated X, Y, and Z motion axes
+- Controlled multiple stepper motors
+- Integrated extrusion and nozzle systems
+- Worked with motor drivers and control electronics
+- Integrated sensors and mechanical components
+- Built and assembled the mechanical structure
+- Troubleshot electrical, mechanical, and motion-control issues
+
+**Engineering Focus**
+
+`Motion Control` · `Embedded Systems` · `Stepper Motors` · `System Integration` · `Mechanical Design`
+
+**[View Project →](YOUR_PROJECT_REPOSITORY_LINK)**
+
+---
+
+### Embedded Systems Projects
+
+**STM32 · ARM Cortex-M4 · C · Bare-Metal Programming**
+
+Developing embedded applications on the STM32F407 platform to strengthen my understanding of low-level microcontroller programming and hardware/software interaction.
+
+**Topics**
+
+- GPIO configuration
+- Registers and memory-mapped I/O
+- Interrupts
+- EXTI and NVIC
+- Timers
+- PWM
+- UART
+- SPI
+- I²C
+- ADC
+- Embedded C
+- Bare-metal programming
+
+**Engineering Focus**
+
+`STM32` · `Embedded C` · `ARM Cortex-M4` · `Interrupts` · `Peripheral Control`
+
+**[View Projects →](YOUR_EMBEDDED_REPOSITORY_LINK)**
 
 ---
 
