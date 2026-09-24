@@ -38,9 +38,6 @@ M.S. Electrical Engineering candidate at The University of Texas at Arlington, f
 
 <br>
 
-**PLC Programming:** Siemens TIA Portal · S7-1200/1500 · Allen-Bradley Studio 5000 · RSLogix 500 · Beckhoff TwinCAT 3
-
-**HMI / SCADA:** Siemens WinCC · Ignition · HMI Development
 
 **Controls:** PID Control · Motion Control · Servo Systems · VFDs · Sequence Control · Interlocks · Fault Handling
 
