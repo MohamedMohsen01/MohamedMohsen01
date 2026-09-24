@@ -66,7 +66,7 @@ Python · C · C++ · SQL · MATLAB
 
 **Embedded**
 
-STM32 · ARM Cortex-M4 · Arduino · Raspberry Pi · GPIO · PWM · UART · SPI · I²C · ADC · Interrupts
+STM32 · ARM Cortex-M4 · Raspberry Pi · GPIO · PWM · UART · SPI · I²C · ADC · Interrupts
 
 ---
 
