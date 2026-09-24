@@ -91,40 +91,6 @@ ROS / ROS 2 · OpenCV · Industrial Robotics · Robot Integration · Computer Vi
 `MATLAB / Simulink` · `LabVIEW` · `AutoCAD` · `SolidWorks` · `Git` · `GitHub` · `Linux`
 
 ---
-
-## Data & Software
-
-I also work with software and data tools that complement my engineering background.
-
-**Python**
-
-Automation · Data Processing · Engineering Applications
-
-**SQL**
-
-Data Analysis · Database Queries · Troubleshooting
-
-**Tableau**
-
-Data Visualization · Dashboards · Analytics
-
-📊 **[View My Tableau Portfolio →](https://public.tableau.com/app/profile/mohamed.mohsen5784/vizzes)**
-
----
-
-## Current Focus
-
-I'm currently expanding my knowledge in:
-
-- Advanced control systems
-- Embedded systems
-- Industrial automation
-- Robotics integration
-- Cyber-physical systems
-- Manufacturing automation
-- Python-based engineering applications
-
----
 ## Featured Projects
 
 ### Automated Manufacturing Cell
