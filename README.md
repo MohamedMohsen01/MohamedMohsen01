@@ -135,7 +135,7 @@ Designed and programmed a simulated automated manufacturing system that controls
 
 **[View Project →](https://github.com/MohamedMohsen01/Automated-Manufacturing-Line-Siemens-PLC-Factory-I-O)**
 
----
+
 
 <div align="center">
 
