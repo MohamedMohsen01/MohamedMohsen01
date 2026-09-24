@@ -131,10 +131,6 @@ Designed and programmed a simulated automated manufacturing system that controls
 
 `PLC Programming` · `Sequence Control` · `Sensors & Actuators` · `Interlocks` · `Fault Handling` · `Industrial Automation`
 
-<!-- Add your Factory I/O screenshot or GIF below -->
-
-<p align="center">
-  <img width="85%" src="YOUR_PROJECT_IMAGE_OR_GIF_URL" />
 </p>
 
 **[View Project →](https://github.com/MohamedMohsen01/Automated-Manufacturing-Line-Siemens-PLC-Factory-I-O)**
