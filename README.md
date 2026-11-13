@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:0F766E&height=170&section=header&text=Mohamed%20Mohsen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20%7C%20Automation%20%7C%20Controls%20%7C%20Embedded%20Systems%20%7C%20Robotics&descSize=15&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:0F766E&height=170&section=header&text=Mohamed%20Mohsen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial Automation%20%7C%20Controls%20%7C%20Embedded%20Systems%20%7C%20Robotics&descSize=15&descAlignY=60" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/momohsen1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.mohsen.aziz@gmail.com)
